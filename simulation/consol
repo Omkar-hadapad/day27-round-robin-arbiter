@@ -1,0 +1,4007 @@
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69274000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe61
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69275000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe62
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69276000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe63
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69277000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe64
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69278000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe65
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69279000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe66
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69280000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe67
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69281000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe68
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69282000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe69
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69283000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe6a
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69284000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe6b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69285000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe6c
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69286000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe6d
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69287000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe6e
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69288000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe6f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69289000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe70
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69290000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe71
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69291000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe72
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69292000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe73
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69293000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe74
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69294000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe75
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69295000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe76
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69296000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe77
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69297000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe78
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69298000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe79
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69299000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe7a
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69300000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe7b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69301000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe7c
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69302000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe7d
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69303000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe7e
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69304000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe7f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69305000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe80
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69306000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe81
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69307000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe82
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69308000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe83
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69309000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe84
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69310000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe85
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69311000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe86
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69312000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe87
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69313000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe88
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69314000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe89
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69315000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe8a
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69316000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe8b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69317000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe8c
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69318000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe8d
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69319000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe8e
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69320000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe8f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69321000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe90
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69322000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe91
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69323000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe92
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69324000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe93
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69325000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe94
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69326000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe95
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69327000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe96
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69328000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe97
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69329000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe98
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69330000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe99
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69331000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe9a
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69332000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe9b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69333000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe9c
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69334000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe9d
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69335000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe9e
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69336000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fe9f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69337000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea0
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69338000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea1
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69339000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea2
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69340000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69341000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea4
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69342000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea5
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69343000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea6
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69344000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69345000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea8
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69346000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fea9
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69347000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feaa
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69348000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feab
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69349000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feac
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69350000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fead
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69351000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feae
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69352000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feaf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69353000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb0
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69354000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb1
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69355000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb2
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69356000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69357000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb4
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69358000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb5
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69359000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb6
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69360000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69361000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb8
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69362000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feb9
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69363000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feba
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69364000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000febb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69365000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000febc
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69366000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000febd
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69367000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000febe
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69368000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000febf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69369000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec0
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69370000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec1
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69371000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec2
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69372000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69373000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec4
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69374000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec5
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69375000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec6
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69376000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69377000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec8
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69378000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fec9
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69379000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feca
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69380000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fecb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69381000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fecc
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69382000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fecd
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69383000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fece
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69384000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fecf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69385000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed0
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69386000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed1
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69387000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed2
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69388000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69389000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed4
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69390000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed5
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69391000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed6
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69392000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69393000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed8
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69394000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fed9
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69395000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feda
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69396000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fedb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69397000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fedc
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69398000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fedd
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69399000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fede
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69400000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fedf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69401000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee0
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69402000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee1
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69403000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee2
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69404000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69405000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee4
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69406000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee5
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69407000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee6
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69408000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69409000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee8
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69410000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fee9
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69411000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feea
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69412000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feeb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69413000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feec
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69414000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feed
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69415000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feee
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69416000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feef
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69417000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef0
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69418000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef1
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69419000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef2
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69420000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69421000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef4
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69422000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef5
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69423000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef6
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69424000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69425000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef8
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69426000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fef9
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69427000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fefa
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69428000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fefb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69429000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fefc
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69430000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fefd
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69431000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fefe
+EXPECTED : HEX_VALUE=0x00000000000000fe
+ACTUAL   : HEX_VALUE=0x00000000000000fe
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69432000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000feff
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69433000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff00
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69434000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff01
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69435000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff02
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69436000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff03
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69437000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff04
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69438000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff05
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69439000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff06
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69440000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff07
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69441000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff08
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69442000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff09
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69443000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff0a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69444000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff0b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69445000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff0c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69446000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff0d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69447000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff0e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69448000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff0f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69449000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff10
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69450000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff11
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69451000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff12
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69452000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff13
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69453000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff14
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69454000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff15
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69455000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff16
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69456000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff17
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69457000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff18
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69458000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff19
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69459000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff1a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69460000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff1b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69461000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff1c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69462000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff1d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69463000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff1e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69464000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff1f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69465000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff20
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69466000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff21
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69467000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff22
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69468000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff23
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69469000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff24
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69470000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff25
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69471000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff26
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69472000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff27
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69473000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff28
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69474000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff29
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69475000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff2a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69476000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff2b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69477000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff2c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69478000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff2d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69479000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff2e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69480000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff2f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69481000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff30
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69482000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff31
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69483000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff32
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69484000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff33
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69485000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff34
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69486000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff35
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69487000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff36
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69488000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff37
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69489000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff38
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69490000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff39
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69491000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff3a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69492000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff3b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69493000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff3c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69494000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff3d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69495000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff3e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69496000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff3f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69497000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff40
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69498000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff41
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69499000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff42
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69500000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff43
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69501000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff44
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69502000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff45
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69503000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff46
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69504000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff47
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69505000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff48
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69506000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff49
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69507000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff4a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69508000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff4b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69509000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff4c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69510000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff4d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69511000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff4e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69512000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff4f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69513000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff50
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69514000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff51
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69515000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff52
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69516000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff53
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69517000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff54
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69518000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff55
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69519000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff56
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69520000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff57
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69521000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff58
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69522000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff59
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69523000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff5a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69524000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff5b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69525000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff5c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69526000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff5d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69527000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff5e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69528000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff5f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69529000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff60
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69530000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff61
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69531000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff62
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69532000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff63
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69533000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff64
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69534000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff65
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69535000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff66
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69536000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff67
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69537000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff68
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69538000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff69
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69539000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff6a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69540000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff6b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69541000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff6c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69542000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff6d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69543000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff6e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69544000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff6f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69545000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff70
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69546000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff71
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69547000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff72
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69548000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff73
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69549000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff74
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69550000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff75
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69551000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff76
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69552000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff77
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69553000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff78
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69554000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff79
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69555000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff7a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69556000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff7b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69557000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff7c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69558000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff7d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69559000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff7e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69560000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff7f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69561000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff80
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69562000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff81
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69563000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff82
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69564000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff83
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69565000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff84
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69566000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff85
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69567000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff86
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69568000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff87
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69569000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff88
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69570000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff89
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69571000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff8a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69572000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff8b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69573000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff8c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69574000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff8d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69575000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff8e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69576000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff8f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69577000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff90
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69578000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff91
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69579000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff92
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69580000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff93
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69581000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff94
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69582000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff95
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69583000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff96
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69584000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff97
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69585000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff98
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69586000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff99
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69587000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff9a
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69588000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff9b
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69589000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff9c
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69590000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff9d
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69591000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff9e
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69592000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ff9f
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69593000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa0
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69594000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa1
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69595000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa2
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69596000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69597000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa4
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69598000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa5
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69599000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa6
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69600000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69601000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa8
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69602000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffa9
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69603000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffaa
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69604000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffab
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69605000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffac
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69606000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffad
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69607000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffae
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69608000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffaf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69609000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb0
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69610000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb1
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69611000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb2
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69612000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69613000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb4
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69614000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb5
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69615000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb6
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69616000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69617000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb8
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69618000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffb9
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69619000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffba
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69620000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffbb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69621000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffbc
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69622000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffbd
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69623000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffbe
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69624000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffbf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69625000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc0
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69626000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc1
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69627000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc2
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69628000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69629000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc4
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69630000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc5
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69631000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc6
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69632000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69633000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc8
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69634000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffc9
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69635000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffca
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69636000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffcb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69637000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffcc
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69638000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffcd
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69639000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffce
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69640000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffcf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69641000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd0
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69642000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd1
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69643000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd2
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69644000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69645000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd4
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69646000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd5
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69647000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd6
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69648000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69649000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd8
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69650000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffd9
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69651000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffda
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69652000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffdb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69653000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffdc
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69654000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffdd
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69655000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffde
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69656000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffdf
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69657000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe0
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69658000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe1
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69659000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe2
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69660000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69661000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe4
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69662000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe5
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69663000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe6
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69664000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69665000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe8
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69666000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffe9
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69667000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffea
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69668000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffeb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69669000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffec
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69670000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffed
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69671000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffee
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69672000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffef
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69673000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff0
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69674000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff1
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69675000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff2
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69676000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff3
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69677000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff4
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69678000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff5
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69679000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff6
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69680000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff7
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69681000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff8
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69682000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fff9
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69683000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fffa
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69684000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fffb
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69685000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fffc
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69686000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fffd
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69687000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000fffe
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69688000
+SCENARIO : AGING_LOGIC
+TEST     : aging_logic
+INPUTS   : 0x000000000000ffff
+EXPECTED : HEX_VALUE=0x00000000000000ff
+ACTUAL   : HEX_VALUE=0x00000000000000ff
+STATUS   : PASS
+GROUP COMPLETE | aging_logic | 65536 urgency/wait combinations checked
+--------------------------------------------------------------------------
+TIME     : 69689000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000000
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69690000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000001
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69691000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000002
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69692000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000003
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69693000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000004
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69694000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000005
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69695000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000006
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69696000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000007
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69697000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000008
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69698000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000009
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69699000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000000a
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69700000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000000b
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69701000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000000c
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69702000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000000d
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69703000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000000e
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69704000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000000f
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69705000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000010
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69706000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000011
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69707000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000012
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69708000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000013
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69709000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000014
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69710000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000015
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69711000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000016
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69712000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000017
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69713000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000018
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69714000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000019
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69715000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000001a
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69716000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000001b
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69717000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000001c
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69718000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000001d
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69719000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000001e
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69720000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000001f
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69721000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000020
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69722000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000021
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69723000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000022
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69724000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000023
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69725000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000024
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69726000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000025
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69727000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000026
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69728000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000027
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69729000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000028
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69730000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000029
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69731000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000002a
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69732000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000002b
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69733000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000002c
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69734000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000002d
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69735000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000002e
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69736000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000002f
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69737000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000030
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69738000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000031
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69739000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000032
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69740000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000033
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69741000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000034
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69742000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000035
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69743000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000036
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69744000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000037
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69745000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000038
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69746000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x0000000000000039
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69747000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000003a
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69748000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000003b
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69749000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000003c
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69750000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000003d
+EXPECTED : GRANT_R1
+ACTUAL   : GRANT_R1
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69751000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000003e
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69752000
+SCENARIO : RR_SELECTOR
+TEST     : rr_selector
+INPUTS   : 0x000000000000003f
+EXPECTED : GRANT_R3
+ACTUAL   : GRANT_R3
+STATUS   : PASS
+GROUP COMPLETE | rr_selector | 64 eligible/pointer combinations checked
+--------------------------------------------------------------------------
+TIME     : 69756000
+SCENARIO : WAIT_COUNTER
+TEST     : wait_counter increment
+INPUTS   : 0x0000000000000063
+EXPECTED : HEX_VALUE=0x0000000000000040
+ACTUAL   : HEX_VALUE=0x0000000000000004
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69786000
+SCENARIO : WAIT_COUNTER
+TEST     : wait_counter saturation
+INPUTS   : 0x0000000000000003
+EXPECTED : COUNTER_SATURATED
+ACTUAL   : COUNTER_SATURATED
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69796000
+SCENARIO : WAIT_COUNTER
+TEST     : wait_counter no-wrap
+INPUTS   : 0x0000000000000003
+EXPECTED : COUNTER_SATURATED
+ACTUAL   : COUNTER_SATURATED
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69806000
+SCENARIO : WAIT_COUNTER
+TEST     : wait_counter hold
+INPUTS   : 0x0000000000000003
+EXPECTED : COUNTER_SATURATED
+ACTUAL   : COUNTER_SATURATED
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69816000
+SCENARIO : WAIT_COUNTER
+TEST     : wait_counter withdrawal
+INPUTS   : 0x0000000000000001
+EXPECTED : COUNTER_CLEARED
+ACTUAL   : COUNTER_CLEARED
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69826000
+SCENARIO : WAIT_COUNTER
+TEST     : wait_counter lanes
+INPUTS   : 0x000000000000000f
+EXPECTED : HEX_VALUE=0x0000000000000051
+ACTUAL   : HEX_VALUE=0x0000000000000051
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69836000
+SCENARIO : WAIT_COUNTER
+TEST     : wait_counter R3 win
+INPUTS   : 0x00000000000000f8
+EXPECTED : WINNER_COUNTER_CLEARED
+ACTUAL   : WINNER_COUNTER_CLEARED
+STATUS   : PASS
+GROUP COMPLETE | wait_counter | reset, increment, independent lanes, saturation, hold and clear checked
+--------------------------------------------------------------------------
+TIME     : 69856000
+SCENARIO : OWNER_CTRL
+TEST     : owner acquire R2
+INPUTS   : 0x0000000000000004
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69866000
+SCENARIO : OWNER_CTRL
+TEST     : owner safe fault
+INPUTS   : 0x0000000000000006
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69876000
+SCENARIO : OWNER_CTRL
+TEST     : owner fault hold
+INPUTS   : 0x0000000000000000
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69886000
+SCENARIO : OWNER_CTRL
+TEST     : owner completion
+INPUTS   : 0x0000000000000001
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69896000
+SCENARIO : OWNER_CTRL
+TEST     : owner acquire R0
+INPUTS   : 0x0000000000000001
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69906000
+SCENARIO : OWNER_CTRL
+TEST     : owner unsafe fault
+INPUTS   : 0x0000000000000002
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69916000
+SCENARIO : OWNER_CTRL
+TEST     : owner no resource
+INPUTS   : 0x0000000000000000
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69926000
+SCENARIO : OWNER_CTRL
+TEST     : owner idle fault
+INPUTS   : 0x0000000000000003
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+GROUP COMPLETE | owner_controller | acquire, completion, safe/unsafe fault and IDLE blocking checked
+--------------------------------------------------------------------------
+TIME     : 69946000
+SCENARIO : TOP_INTEGRATION
+TEST     : top grant R0
+INPUTS   : 0x0000000000000fa6
+EXPECTED : GRANT_R0
+ACTUAL   : GRANT_R0
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69966000
+SCENARIO : TOP_INTEGRATION
+TEST     : top RR grant R2
+INPUTS   : 0x000000000000003f
+EXPECTED : GRANT_R2
+ACTUAL   : GRANT_R2
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69986000
+SCENARIO : TOP_INTEGRATION
+TEST     : top no resource
+INPUTS   : 0x0000000000000000
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 69996000
+SCENARIO : TOP_INTEGRATION
+TEST     : top fault block
+INPUTS   : 0x0000000000000003
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+--------------------------------------------------------------------------
+TIME     : 70006000
+SCENARIO : TOP_INTEGRATION
+TEST     : top no requests
+INPUTS   : 0x0000000000000000
+EXPECTED : NO_GRANT
+ACTUAL   : NO_GRANT
+STATUS   : PASS
+GROUP COMPLETE | top-level | priority, owner/grant consistency, RR progression, resource and fault blocking checked
+==========================================================================
+OVERALL RESULT: PASS | errors=0
+NOTE: RTL simulation still must be run with your installed simulator.
+NOTE: This is not a formal proof or safety certification.
+==========================================================================
+Simulation complete via $finish(1) at time 70006 NS + 0
+./day27_tb.v:583         $finish;
+ncsim>
